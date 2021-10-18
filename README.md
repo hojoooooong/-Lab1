@@ -1,5 +1,9 @@
 ## README.md 작성
-[Github 주소](
+### #3개 
+##### #5개
+[Github 주소](https://github.com/hojoooooong/-Lab1.git)
+
+* C언어
 ```c
 #include <stdio.h>
 
@@ -14,6 +18,7 @@ int main(void)
   return 0;
 }
 ```
+* 파이썬
 ```python
 a=int(input())
 b=int(input())
